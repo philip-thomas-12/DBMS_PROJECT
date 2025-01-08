@@ -54,7 +54,7 @@ This project is a full-stack web application built with **Next.js** for the fron
 - A MongoDB Atlas or Firebase Firestore account.
 - Git for version control.
 
-### Steps
+### Steps.
 1. Clone the repository:
    
    git clone https://github.com/philip-thomas-12/DBMS_PROJECT.git
